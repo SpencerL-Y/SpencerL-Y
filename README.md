@@ -11,3 +11,6 @@ Detailed bio can be found [here](https://tis.ios.ac.cn/?page_id=1873)
 - Program verification and analysis
 - Loop invariant synthesis and ranking function synthesis
 - Memory safety analysis
+
+### Other Interests
+- CMANO
