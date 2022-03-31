@@ -13,4 +13,4 @@ Detailed bio can be found [here](https://tis.ios.ac.cn/?page_id=1873)
 - Memory safety analysis
 
 ### Other Interests
-- CMANO
+- CMANO: Command: Modern Air/Naval Operations 
