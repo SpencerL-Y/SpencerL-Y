@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a Phd. student at State Key Lab. of Computer Science, ISCAS.
+I am a Ph.d. student at State Key Lab. of Computer Science, ISCAS.
 
 Detailed bio can be found [here](https://tis.ios.ac.cn/?page_id=1873)
 
