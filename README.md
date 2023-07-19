@@ -11,4 +11,5 @@ Detailed bio can be found [here](https://tis.ios.ac.cn/?page_id=1873)
 - Fuzzing techniques of Linux kernel
 
 ### Other Interests
-- CMANO: Command: Modern Air/Naval Operations 
+- KTM 390 ADV 
+- World of Warship
