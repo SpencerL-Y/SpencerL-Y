@@ -13,4 +13,4 @@ Detailed bio can be found [here](https://tis.ios.ac.cn/?page_id=1873)
 
 ### Other Interests
 - KTM 390 ADV 
-- World of Warship
+- War Thunder
