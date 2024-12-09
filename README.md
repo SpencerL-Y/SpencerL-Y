@@ -8,7 +8,7 @@ Detailed bio can be found [here](https://versys.ios.ac.cn/members/xie-li/)
 
 ### Research Interests
 - Program verification and analysis: which includes invariant synthesis, ranking function synthesis and memory safety analysis
-- New logic and corresponding deciding algorithm that can be used to extend the scope and capability of formal method.
+- New logics and corresponding decision procedures that can be used to extend the scope and capability of formal method.
 - Fuzzing techniques of Linux kernel
 
 ### Other Interests
