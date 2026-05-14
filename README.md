@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a Ph.d. student at State Key Lab. of Computer Science, ISCAS.
+I am a Ph.d. from at State Key Lab. of Computer Science, ISCAS, currently working at BD.
 
 Detailed bio can be found [here](https://versys.ios.ac.cn/members/xie-li/)
 
