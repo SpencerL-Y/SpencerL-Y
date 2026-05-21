@@ -2,15 +2,14 @@
 
 ### About me
 
-I am a Ph.d. from at State Key Lab. of Computer Science, ISCAS, currently working at BD.
+I am a Ph.d. from at State Key Lab. of Computer Science, ISCAS, currently a QA engineer at BD.
 
 Detailed bio can be found [here](https://versys.ios.ac.cn/members/xie-li/)
 
 ### Research Interests
-- LLM based program analysis/program verification...
-- Program verification and analysis: which includes invariant synthesis, ranking function synthesis and memory safety analysis
+- LLM based program analysis/program verification.
+- Monorepo code analysis resolution.
 - New logics and corresponding decision procedures that can be used to extend the scope and capability of formal method
-- Debugging  techniques of Linux kernel
 
 ### Other Interests
 - KTM 390 ADV 
